@@ -41,3 +41,14 @@ FirstDay/
 ├── index.html
 ├── style.css
 └── README.md
+## Live Demo
+
+[View Live Tribute Page](https://vishal-maddheshiya.github.io/tribute-page/)
+
+## GitHub Repository
+
+[View Source Code](https://github.com/VISHAL-MADDHESHIYA/tribute-page)
+
+## Author
+
+Vishal Maddheshiya
