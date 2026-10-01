@@ -52,3 +52,7 @@ FirstDay/
 ## Author
 
 Vishal Maddheshiya
+
+## Temporary Rollback Test
+
+This section is only for demonstrating Git rollback.
